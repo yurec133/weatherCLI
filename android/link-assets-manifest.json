@@ -1,0 +1,57 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/CaviarDreams.ttf",
+      "sha1": "cd2f14c162cf2a3f4393d8af628074bf90654d15"
+    },
+    {
+      "path": "assets/fonts/Futuram.ttf",
+      "sha1": "738e0588a2b321c45c7eeca39f87e78a263b1d82"
+    },
+    {
+      "path": "assets/icons/01d.png",
+      "sha1": "7591e549db3bc54f959c0d431fb3374135dd1a30"
+    },
+    {
+      "path": "assets/icons/02d.png",
+      "sha1": "b8e5a4ca593984c1755a8ca81f614b019a4cc570"
+    },
+    {
+      "path": "assets/icons/03d.png",
+      "sha1": "3253f5b16fd282e1b36645b9c89644f05fb8ac91"
+    },
+    {
+      "path": "assets/icons/04d.png",
+      "sha1": "76bfa452fe904c4acdd0f6563614d5051ee5f142"
+    },
+    {
+      "path": "assets/icons/09d.png",
+      "sha1": "042184300e48ae0fca466e3153fa3e5585725442"
+    },
+    {
+      "path": "assets/icons/10d.png",
+      "sha1": "45578ae531f6dba58efc6037696727b687425079"
+    },
+    {
+      "path": "assets/icons/11d.png",
+      "sha1": "e8e60a82c27633015ce98bca356d1dc8c02352dd"
+    },
+    {
+      "path": "assets/icons/13d.png",
+      "sha1": "818d492c71301ac1dd0b9a048c146a698525f908"
+    },
+    {
+      "path": "assets/icons/50d.png",
+      "sha1": "7e2394484df258e1c2e95a3ae8fd9ba6113998f3"
+    },
+    {
+      "path": "assets/img/bg-background-home.jpg",
+      "sha1": "b33722bd6bd9a87fe0c07414cc09d5994f8d8e96"
+    },
+    {
+      "path": "assets/img/bg-background.jpg",
+      "sha1": "1ef69cc175e623e0d91a1c6bfa154043f9c0561a"
+    }
+  ]
+}
